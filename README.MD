@@ -8,7 +8,7 @@ Digit check and formatting on Brazilian Individual Taxpayer Registry ([CPF]).
 [build]:     https://ci.appveyor.com/project/TallesL/net-Cpf
 [build-img]: https://ci.appveyor.com/api/projects/status/github/tallesl/net-Cpf?svg=true
 [nuget]:     https://www.nuget.org/packages/marcos.cpf-validator/
-[nuget-img]: https://badge.fury.io/nu/Cpf.svg
+[nuget-img]: https://badge.fury.io/nu/marcos.cpf-validator.svg
 [CPF]:       http://en.wikipedia.org/wiki/Cadastro_de_Pessoas_F%C3%ADsicas
 
 ## Usage
