@@ -1,0 +1,12 @@
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\bin\Debug\net6.0\cpfvalidator.deps.json
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\bin\Debug\net6.0\cpfvalidator.dll
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\bin\Debug\net6.0\cpfvalidator.pdb
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\obj\Debug\net6.0\cpfvalidator.csproj.AssemblyReference.cache
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\obj\Debug\net6.0\cpfvalidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\obj\Debug\net6.0\cpfvalidator.AssemblyInfoInputs.cache
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\obj\Debug\net6.0\cpfvalidator.AssemblyInfo.cs
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\obj\Debug\net6.0\cpfvalidator.csproj.CoreCompileInputs.cache
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\obj\Debug\net6.0\cpfvalidator.dll
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\obj\Debug\net6.0\refint\cpfvalidator.dll
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\obj\Debug\net6.0\cpfvalidator.pdb
+C:\dev\Estudos\Dotnet_Projects\nuget_project\cpfvalidator\obj\Debug\net6.0\ref\cpfvalidator.dll

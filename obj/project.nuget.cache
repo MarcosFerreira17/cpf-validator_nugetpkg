@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dnvURONiRGzuZRveLAef9EhNdxkisj700k9iNODW3h34Dt7M5zjRjRvTmCyKYKDa00W8c9ZXtLadPfjQzEQfWA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Estudos\\Dotnet_Projects\\nuget_project\\cpfvalidator\\cpfvalidator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mnia\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\mnia\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.2\\microsoft.netframework.referenceassemblies.net20.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
