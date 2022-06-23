@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>marcos.cpf-validator</PackageId>
+    <Version>1.0.0</Version>
+    <title>Validador de CPF</title>
+    <Authors>Marcos Ferreira</Authors>
+    <Company>GFT Group</Company>
+    <licenseUrl>https://mit-license.org</licenseUrl>
+    <projectUrl>https://github.com/MarcosFerreira17/cpf-validator</projectUrl>
+    <iconUrl>https://th.bing.com/th/id/R.84afa4133860d90f1acc54e4f1d04e98?rik=x%2fwlwToQzUZGEw&pid=ImgRaw&r=0</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Verifica se o CPF é válido</description>
+    <tags>CPF, cpf, validador, validador cpf, verifica cpf</tags>
+  </PropertyGroup>
+</Project>
