@@ -16,8 +16,8 @@ Digit check and formatting on Brazilian Individual Taxpayer Registry ([CPF]).
 ```cs
 using CpfLibrary;
 
-Cpf.Check("29594421134");     // True
-Cpf.Check("488.081.131-91");  // True
-Cpf.Check("00000000000");     // False
-Cpf.Check("text");            // False
-Cpf.Check("");                // False
+Check.CPF("29594421134");     // True
+Check.CPF("488.081.131-91");  // True
+Check.CPF("00000000000");     // False
+Check.CPF("text");            // False
+Check.CPF("");                // False
